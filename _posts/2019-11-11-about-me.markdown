@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-date: 2017-11-11 00:00:00 +0300
+date: 2019-11-11 00:00:00 +0300
 description: Coming Soon # Add post description (optional)
 img: default.png # Add image post (optional)
 tags: [Bio, About Me] # add tag
