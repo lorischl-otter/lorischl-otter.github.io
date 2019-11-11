@@ -8,7 +8,7 @@ url: "lorischlatter.com" # the base hostname & protocol for your site, e.g. http
 
 # Author Settings
 author: Lori Schlatter # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: headshot.jpg # add your photo
 about-author: Nonprofit Professional turned Data Science Student with Lambda School. # add description
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
@@ -20,7 +20,7 @@ social-email: lori.schlatter@gmail.com # add your Email address
 # discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: 151766017 # Google Analytics
+analytics: 205397752 # Google Analytics
 
 # Build Settings
 markdown: kramdown
