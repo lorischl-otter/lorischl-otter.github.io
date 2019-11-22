@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Exploration - Why Do People Want to Leave Their Jobs?
+title: Data Exploration - Why Do Employees Want to Leave Their Jobs?
 date: 2019-11-22 00:00:00 -0600
 description: Data visualizations utilizing Federal Government employee satisfaction data # Add post description (optional)
 img: BoxPlot.png # Add image post (optional)
