@@ -3,7 +3,7 @@ layout: post
 title: Data Exploration: Why Do People Want to Leave Their Jobs?
 date: 2019-11-21 00:00:00 +0300
 description: Data visualizations utilizing Federal Government employee satisfaction data # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: BoxPlot.png # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
