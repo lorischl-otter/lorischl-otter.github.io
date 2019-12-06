@@ -6,4 +6,22 @@ description: Coming Soon # Add post description (optional)
 img: default.png # Add image post (optional)
 tags: [Bio, About Me] # add tag
 ---
-Coming Soon
+
+Who am I?
+
+I’m a person who has held what appear to be vastly contrasting positions over the course of her life. 
+
+I’ve been a peer counselor and a math club president.       
+A democrat and a republican.     
+A [green and a blue](https://truecolorsintl.com/the-four-color-personalities/).     
+A small-town Missouri girl and a Sydney CBD dweller.      
+’The Nice One’ and ’The Smart One’.        
+An international science fair award recipient and a crisis hotline responder.          
+A people pleaser and a champion of boundary setting.      
+A [sexual assault victim/survivor advocate and an aspiring data scientist](https://www.linkedin.com/posts/lorischlatter_tldr-becoming-a-data-scientist-with-the-activity-6608394452241395712-MYty). 
+
+Some of these identities I hold simultaneously. Most of them have involved a journey from one to another. But with all of them, I’ve learned more from the difference and path between the two than I have from either identity independently. 
+
+I love bridging the gaps, which is why I’m excited to become a Data Scientist and bring data life in tangible, meaningful ways. The purpose of this website is to showcase how I'm learning to do that. 
+
+I’ll be seeking positions after completion of my [Lambda School](www.lambdaschool.com) program in late 2020.
