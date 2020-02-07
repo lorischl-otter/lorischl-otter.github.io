@@ -10,10 +10,10 @@ url: "lorischlatter.com" # the base hostname & protocol for your site, e.g. http
 author: Lori Schlatter # add your name
 author-img: headshot.jpg # add your photo
 about-author: Nonprofit Professional turned Data Science Student with Lambda School # add description
-social-twitter: lorischl_otter
 # social-facebook: # add your Facebook handle
 social-github: lorischl-otter # add your Github handle
 social-linkedin: LoriSchlatter # add your Linkedin handle
+social-twitter: lorischl_otter
 social-email: lori.schlatter@gmail.com # add your Email address
 
 # Disqus
