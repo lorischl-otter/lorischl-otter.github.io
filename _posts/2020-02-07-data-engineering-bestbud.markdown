@@ -23,6 +23,7 @@ The website is located https://bestbudapp.netlify.com/signup, (you can easily cr
 
 Primary Skills/Platforms used: 
 * Python
+* Git Workflow
 * Data Engineering
   - PostgreSQL Database creation in ElephantSQL
   - API creation
