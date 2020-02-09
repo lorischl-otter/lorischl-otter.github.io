@@ -1,7 +1,7 @@
 title: LoriSchlatter.com
 description: > # this means to ignore newlines until "baseurl:"
   Portfolio website for Lori Schlatter, non-profit professional turned data science student with Lambda School
-image: '/assets/img/default.png'
+# image: '/assets/img/default.png'
 permalink: ':title/'
 # baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "lorischlatter.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -17,6 +17,14 @@ social-linkedin: LoriSchlatter # add your Linkedin handle
 social-twitter: lorischl_otter
 social-email: lori.schlatter@gmail.com # add your Email address
 
+# SEO/OpenGraph
+logo: /assets/img/default.png
+defaults:
+  - scope:
+    path: ""
+   values:
+    image: /assets/img/default.png
+
 # Disqus
 # discus-identifier: mr-brown # add your discus identifier
 
@@ -29,6 +37,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  -jekyll-seo-tag
 
 paginate: 8
 paginate_path: "/page/:num"
