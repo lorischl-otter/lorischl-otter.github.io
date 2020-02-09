@@ -20,7 +20,7 @@ social-email: lori.schlatter@gmail.com # add your Email address
 # SEO/OpenGraph
 logo: /assets/img/default.png
 defaults:
-  - scope: 
+  scope: 
     path: ""
   values: 
     image: /assets/img/default.png
