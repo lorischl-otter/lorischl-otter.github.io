@@ -18,12 +18,12 @@ social-twitter: lorischl_otter
 social-email: lori.schlatter@gmail.com # add your Email address
 
 # SEO/OpenGraph
-logo: /assets/img/default.png
+logo: default.png
 defaults:
   scope: 
     path: ""
   values: 
-    image: /assets/img/default.png
+    image: default.png
 
 # Disqus
 # discus-identifier: mr-brown # add your discus identifier
