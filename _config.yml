@@ -8,12 +8,12 @@ url: "lorischlatter.com" # the base hostname & protocol for your site, e.g. http
 # site-twitter: #if your site has a twitter account, enter it here
 
 # SEO/OpenGraph
-logo: /assets/img/default.png
+logo: default.png
 defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/default.png
+      image: default.png
 
 # Author Settings
 author: Lori Schlatter # add your name
