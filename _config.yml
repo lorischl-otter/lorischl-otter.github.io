@@ -20,9 +20,9 @@ social-email: lori.schlatter@gmail.com # add your Email address
 # SEO/OpenGraph
 logo: /assets/img/default.png
 defaults:
-  - scope:
+  - scope: 
     path: ""
-   values:
+  values: 
     image: /assets/img/default.png
 
 # Disqus
@@ -37,7 +37,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
-  -jekyll-seo-tag
+  - jekyll-seo-tag
 
 paginate: 8
 paginate_path: "/page/:num"
